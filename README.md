@@ -26,17 +26,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <strong>Languages & Frameworks:</strong><br>
-  <code>Ruby</code> • <code>JavaScript</code> • <code>Java</code> • <code>C#</code> • <code>Python</code> <br>
-  <code>Rails</code> • <code>React</code> • <code>Spring Boot</code> • <code>.NET</code> • <code>Node.js</code> <br><br>
-
-  <strong>Database & Cloud:</strong><br>
-  <code>PostgreSQL</code> • <code>SQL Server</code> • <code>AWS</code> • <code>Heroku</code><br><br>
-
-  <strong>Dev Tools:</strong><br>
-  <code>Git</code> • <code>GitHub</code> • <code>CI/CD</code> • <code>Jira</code> • <code>VSCode</code>
-</p>
+`Ruby` `Rails` `JavaScript` `React` `Java` `.NET` `PostgreSQL` `AWS` `SQL Server` `Git`
 
 ---
 
