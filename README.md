@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chandhu Bhumireddy 👋</h1>
 
 <p align="center">
-  🎓 CS Master's @ UIC • 💻 Full Stack Developer • 👩‍🏫 Tech Instructor @ DPI <br>
+  🎓 CS Master's @ UIC • 💻 Full Stack Developer • 👩‍🏫 Tech Instructor @ Discovery Partners Institute <br>
   <em>Driven by curiosity, community, and clean code ✨</em>
 </p>
 
