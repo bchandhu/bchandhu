@@ -1,28 +1,61 @@
-### Hi there, I'm Chandhu Bhumireddy 👋
+<h1 align="center">Hi there, I'm Chandhu Bhumireddy 👋</h1>
 
-I'm a Full Stack Developer, Tech Instructor, and CS Master's student @ UIC 💻🎓
-
-- 🔭 Currently building full-stack web applications with Ruby on Rails, JavaScript, and AWS.
-- 🌱 Exploring AI/ML and deepening my skills in system design and backend architecture.
-- 👩‍🏫 Teaching at Discovery Partners Institute, mentoring non-traditional learners to break into tech.
-- 💬 Passionate about community tech events, career mentoring, and hands-on coding support.
-- 🎯 Actively looking for Full-Time SWE/SDE roles (Graduating May 2025!)
-
-**Tech Stack & Tools:**
-`Ruby` `Rails` `JavaScript` `React` `Node.js` `PostgreSQL` `AWS` `Git` `HTML/CSS`  
-`.NET (C#)` `Java` `SQL Server` `Spring Boot` `Jira` `CI/CD` `Python`
-
-**Some Highlights:**
-- 🧑‍🏫 Mentored 500+ students in the Introduction to Software Development course at DPI.
-- 💼 Built Java and .NET-based enterprise applications in previous internships.
-- 🎤 Hosted 25+ community tech sessions, mock interviews, and coding events.
-
-**Let’s Connect:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandhubhumireddy)
-- 📨 Always open to meaningful collaborations and opportunities!
+<p align="center">
+  🎓 CS Master's @ UIC • 💻 Full Stack Developer • 👩‍🏫 Tech Instructor @ DPI <br>
+  <em>Driven by curiosity, community, and clean code ✨</em>
+</p>
 
 ---
 
-🌟 _"Driven by curiosity, community, and clean code."_
+### 🚀 About Me
 
-![Profile views](https://komarev.com/ghpvc/?username=bchandhu)
+- 🔭 Currently building full-stack web applications using **Ruby on Rails**, **JavaScript**, and **AWS**  
+- 🌱 Exploring **AI/ML** and diving deeper into **system design** and **backend architecture**  
+- 👩‍🏫 Teaching at **Discovery Partners Institute**, mentoring non-traditional learners to break into tech  
+- 💬 Passionate about **community events**, **career mentoring**, and **hands-on coding support**  
+- 🎯 Actively seeking **Full-Time SWE/SDE** opportunities (Graduating **May 2025**)
+
+---
+
+### 💼 Previous Experience
+
+- **SDE Intern** – *Fiserv Inc*  
+- **Software Developer (Co-op)** – *Codefacts IT Solutions*  
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <strong>Languages & Frameworks:</strong><br>
+  <code>Ruby</code> • <code>JavaScript</code> • <code>Java</code> • <code>C#</code> • <code>Python</code> <br>
+  <code>Rails</code> • <code>React</code> • <code>Spring Boot</code> • <code>.NET</code> • <code>Node.js</code> <br><br>
+
+  <strong>Database & Cloud:</strong><br>
+  <code>PostgreSQL</code> • <code>SQL Server</code> • <code>AWS</code> • <code>Heroku</code><br><br>
+
+  <strong>Dev Tools:</strong><br>
+  <code>Git</code> • <code>GitHub</code> • <code>CI/CD</code> • <code>Jira</code> • <code>VSCode</code>
+</p>
+
+---
+
+### 💡 Highlights
+
+- 🧑‍🏫 Mentored **500+ students** in the *Introduction to Software Development* course at DPI  
+- 💼 Worked on **.NET**, **Java**, and **Ruby on Rails** based applications  
+- 🎤 Hosted **25+ tech sessions**, mock interviews, and community events
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/chandhu-bhumireddy-022432190/)  
+- 📨 Always open to meaningful **collaborations** and **opportunities**  
+- 📊 ![Profile views](https://komarev.com/ghpvc/?username=bchandhu&color=blue)
+
+---
+
+<p align="center">
+  <em>"Code with heart. Teach with purpose. Learn with passion."</em>
+</p>
