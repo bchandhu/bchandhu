@@ -1,78 +1,85 @@
 <h1 align="center">Hi there, I'm Chandhu Bhumireddy 👋</h1>
 
 <p align="center">
-  🎓 CS Master's @ UIC &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 👩‍🏫 Tech Instructor @ DPI  
+  🎓 CS Master's @ UIC &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 👩‍🏫 Tech Instructor @ Discovery Partners Institute  
   <br/>
   <em>Driven by curiosity, community, and clean code ✨</em>
 </p>
 
 ---
 
+<table>
+<tr>
+<!-- LEFT BOX -->
+<td width="50%" valign="top">
+
 ### 🚀 About Me
 
-- 🔭 Building full-stack applications with **Ruby on Rails**, **JavaScript**, and **AWS**  
-- 🌱 Exploring **AI/ML**, **System Design**, and scalable backend systems  
-- 👩‍🏫 Teaching non-traditional learners at **Discovery Partners Institute**  
-- 🎤 Hosting community events, tech talks, and mentoring sessions  
-- 🎯 Actively seeking **SWE/SDE Full-Time roles** (Graduating **May 2025**)
+- 🔭 Currently building full-stack web applications using **Ruby on Rails**, **JavaScript**, and **AWS**  
+- 🌱 Exploring **AI/ML** and diving deeper into **system design** and **backend architecture**  
+- 👩‍🏫 Teaching at **Discovery Partners Institute**, mentoring non-traditional learners to break into tech  
+- 💬 Passionate about **community events**, **career mentoring**, and **hands-on coding support**  
+- 🎯 Actively seeking **Full-Time SWE/SDE** opportunities (Graduating **May 2025**)
 
 ---
 
-### 💼 Experience
+### 💼 Previous Experience
 
-- 💼 **SDE Intern** – *Fiserv Inc*  
-- 💻 **Software Developer (Co-op)** – *Codefacts IT Solutions*  
-
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <code>Ruby</code> &nbsp;
-  <code>Rails</code> &nbsp;
-  <code>JavaScript</code> &nbsp;
-  <code>React</code> &nbsp;
-  <code>Java</code> &nbsp;
-  <code>C# (.NET)</code> &nbsp;
-  <code>Python</code> &nbsp;
-  <code>SQL</code> &nbsp;
-  <code>PostgreSQL</code> &nbsp;
-  <code>SQL Server</code> &nbsp;
-  <code>AWS</code> &nbsp;
-  <code>Heroku</code> &nbsp;
-  <code>Git</code> &nbsp;
-  <code>CI/CD</code> &nbsp;
-  <code>Jira</code>
-</p>
+- **SDE Intern** – *Fiserv Inc*  
+- **Software Developer (Co-op)** – *Codefacts IT Solutions*  
 
 ---
 
-### 🌟 Highlights
+### 💡 Highlights
 
-- 👩‍🏫 Mentored **500+ students** in *Intro to Software Development* @ DPI  
-- 🔧 Worked on enterprise apps in **.NET**, **Java**, and **Rails**  
-- 📢 Hosted **25+ events**: coding sessions, mock interviews, career mentoring
+- 🧑‍🏫 Mentored **500+ students** in the *Introduction to Software Development* course at DPI  
+- 💼 Worked on **.NET**, **Java**, and **Ruby on Rails** based applications  
+- 🎤 Hosted **25+ tech sessions**, mock interviews, and community events
+
+</td>
+
+<!-- RIGHT BOX -->
+<td width="50%" valign="top">
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**  
+`Ruby` `JavaScript` `Java` `C#` `Python` `SQL` `HTML` `CSS`
+
+**Frameworks & Libraries:**  
+`Rails` `React` `Spring Boot` `.NET` `Node.js`
+
+**Databases & Cloud:**  
+`PostgreSQL` `SQL Server` `AWS` `Heroku`
+
+**Tools & DevOps:**  
+`Git` `GitHub` `CI/CD` `Jira` `VSCode` `Postman` `Figma`
 
 ---
 
-### 📬 Let's Connect
+### 🤝 Let’s Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/chandhu-bhumireddy-022432190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;
+  <br/><br/>
   <a href="mailto:chandhub13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bchandhu&color=blue" alt="GitHub Profile Views" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
   <em>"Code with heart. Teach with purpose. Learn with passion."</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bchandhu&color=blue" alt="GitHub Profile Views" />
 </p>
